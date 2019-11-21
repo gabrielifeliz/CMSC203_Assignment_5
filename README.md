@@ -14,4 +14,4 @@ Topics:
 - GUI Application (JavaFX)
 - Unit Testing (JUnit)
 
-Date of Completion: 12/14/2018
+Date of Completion: 11/14/2018
